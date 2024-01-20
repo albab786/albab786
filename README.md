@@ -1,4 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUvEoNc4MFrIE-alP2w00NNSDp9o2jpxCRQ&usqp=CAU)]
+
+
 <h1 align="center">Hi 👋, I'm Md Albab Alam</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
@@ -24,5 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albab786&show_icons=true&locale=en" alt="albab786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albab786&" alt="albab786" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
