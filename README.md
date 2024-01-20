@@ -26,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albab786&show_icons=true&locale=en" alt="albab786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albab786&" alt="albab786" /></p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
