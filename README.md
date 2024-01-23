@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUvEoNc4MFrIE-alP2w00NNSDp9o2jpxCRQ&usqp=CAU)]
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzwAh-_WZdgvLRKeI0424KiQ5suSbDjiCg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqDve7dijIrs5BtW0xMpPIjTf3ZmqBkDG0A&usqp=CAU))]
 
 
 <h1 align="center">Hi 👋, I'm Md Albab Alam</h1>
