@@ -1,4 +1,6 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzwAh-_WZdgvLRKeI0424KiQ5suSbDjiCg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqDve7dijIrs5BtW0xMpPIjTf3ZmqBkDG0A&usqp=CAU))]
+
+<img src="https://media3.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" alt="Description of the image" width="1000" height="300">
+
 
 
 <h1 align="center">Hi 👋, I'm Md Albab Alam</h1>
