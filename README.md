@@ -1,7 +1,7 @@
 
 <img src="https://media3.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" alt="Description of the image" width="1000" height="300">
 
-dgsdgdg
+
 
 <h1 align="center">Hi 👋, I'm Md Albab Alam</h1>
 <h3 align="center">A passionate developer from India</h3>
