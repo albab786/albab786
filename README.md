@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Spring Boot,Java, HTML,CSS,JS,DSA,MySQL,React js**
+- 💬 Ask me about **Spring Boot,Java, HTML,CSS,JS,React js,DSA,MySQL,SQLplus,MongoDB,Node js,Express js**
 
 - 📫 How to reach me **alb.ab3714@gmail.com**
 
