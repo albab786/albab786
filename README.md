@@ -1,31 +1,62 @@
-
-<img src="https://media3.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" alt="Description of the image" width="1000" height="300">
-
-
+<img src="https://media3.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" alt="Welcome GIF" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Md Albab Alam</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albab786&label=Profile%20views&color=0e75b6&style=flat" alt="albab786" /> </p>
+<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU" width="300" />
 
-- 🌱 I’m currently learning **Spring Boot**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albab786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 💬 Ask me about **Spring Boot,Spring, Java,JDBC,Hibernate, HTML, CSS, JS, React js, DSA, MySQL, SQLplus, MongoDB, Node js, Express js**
+- 🌱 I’m currently learning **Spring Boot** and **React.js** ⚛️
+- 💬 Ask me about **Spring Boot, Java, JDBC, React, MongoDB, Node.js** 💻
+- 📫 How to reach me: **alb.ab3714@gmail.com** 📧
+- ⚡ Fun fact: **I think I am funny 😄**
 
-- 📫 How to reach me **alb.ab3714@gmail.com**
+---
 
-- ⚡ Fun fact **I think i am funny**
+## 🚀 My Projects:
+- **Todo App** 📋
+- **Weather App** 🌦
+- **E-Commerce Cart** 🛒
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albab786&show_icons=true&locale=en&layout=compact" alt="albab786" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albab786&show_icons=true&locale=en" alt="albab786" /></p>
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albab786&" alt="albab786" /></p>
+---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albab786&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=albab786&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albab786&" alt="GitHub Streak" />
+</p>
+
+---
+
+🌟 *“The best way to learn is to build!”* 🌟
