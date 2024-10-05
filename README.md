@@ -1,4 +1,3 @@
-
 <img src="https://media3.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" alt="Description of the image" width="1000" height="300">
 
 
